@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site":"myaurapp",
+    "site":"dsc-iiitu",
     "public": "dist",
     "rewrites": [ {
         "source": "**",
